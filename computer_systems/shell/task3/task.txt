@@ -1,0 +1,20 @@
+Create a script sum.sh which gets a filename as a parameter! 
+The file contains many numbers spearated by spaces.  
+We don't know the amount of numbers in the lines, 
+and we don't know how many lines we have in the file. The script should write
+out the numbers separated by + characters and an = character at the end, 
+and of course the sum of the line.
+
+Example:
+
+3 4
+678 13
+1 2
+8 9 8
+4
+Result
+3+4=7
+678+13=691
+1+2=3
+8+9+8=25
+4=4

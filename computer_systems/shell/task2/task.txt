@@ -1,0 +1,17 @@
+2.1
+
+Write a shell script which expects a file as a parameter! 
+In the file we have names in every line. The script should split that into 2 files. 
+In the first file, there should be those, who has 2 names, in the second there are the 3 name people.
+
+Example:
+Input:
+John Albert Smith
+Oliver Jake
+Alex Mary Connor
+Olivia Megan
+
+Output:
+1st file:                                                                2nd file
+John Albert Smith                                                        Oliver Jake
+Alex Mary Connor                                                         Olivia Megan
